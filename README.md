@@ -17,5 +17,5 @@
 
 
 ##### Note
-	- Execute as ***superuser***
-	- Install the ***net-tools*** dependency
+	Execute as ***superuser***
+	Install the ***net-tools*** dependency
