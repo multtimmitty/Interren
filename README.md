@@ -1,6 +1,6 @@
 # INTERREN
 ------------
-***A script that rename the network interfaces***
+***A script that rename the network interfaces (temporarily)***
 
 
 
